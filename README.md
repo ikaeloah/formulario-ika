@@ -80,6 +80,3 @@
     </div>
 
     <button class="botão" type="submit">Concluído</button>
-    </form>
-</body>
-</html>
